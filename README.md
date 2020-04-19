@@ -2,7 +2,7 @@
 环境：
      ubuntu16.04
      ns2.34
-[我的GPSR源码git库链接](https://github.com/Mangoleo/GPSR-source-code)
+[我的GPSR源码](https://github.com/Mangoleo/GPSR-source-code)
 
 ---
 #####第一步
